@@ -27,3 +27,5 @@ Usage: `git-subtree-check.sh DIR (COMMIT)`
 lint-all.sh
 ===========
 Calls other scripts with the `lint-` prefix.
+
+<!-- Auto-update: 2025-10-14T03:06:13.999271 -->
