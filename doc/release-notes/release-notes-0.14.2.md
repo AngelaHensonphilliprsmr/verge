@@ -106,3 +106,5 @@ Thanks to everyone who directly contributed to this release:
 As well as everyone that helped translating on [Transifex](https://www.transifex.com/projects/p/bitcoin/).
 {% endgithubify %}
 </div>
+
+<!-- Auto-update: 2025-10-19T10:38:57.496736 -->
